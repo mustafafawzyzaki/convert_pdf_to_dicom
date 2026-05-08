@@ -1,0 +1,4 @@
+pydicom<3.0.0
+pynetdicom
+pdf2dcm==0.5.2
+pillow>=10.4.0
