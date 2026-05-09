@@ -99,6 +99,6 @@ if __name__ == "__main__":
                     "InstitutionName":        "PaxeraHealth",
                     "DocumentTitle":          "Machine Utilization Report",
                 }
-                
+
                 result= convert_pdf_to_dicom(pdf_file, dicom_tags=tags)
                 print(result)
